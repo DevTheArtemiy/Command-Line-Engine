@@ -40,3 +40,4 @@ build/
 
 ### ELSE ###
 src/main/resources/ideas.txt
+.idea
