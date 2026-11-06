@@ -1,0 +1,4 @@
+NAME
+        print (prt) - command for printing text on console.
+DESCRIPTION
+        The command is used for printing what user gave as an argument on console.

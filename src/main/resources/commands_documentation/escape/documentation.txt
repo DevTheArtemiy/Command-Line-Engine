@@ -1,0 +1,4 @@
+NAME
+        escape (esc) - command for exiting the fico tool.
+DESCRIPTION
+        The command is used for exiting the fico tool and returning to the console the tool was called from.

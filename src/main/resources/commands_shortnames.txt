@@ -1,0 +1,5 @@
+pr Print
+esc Escape
+rpt Repeat
+man Manual
+shr Short
